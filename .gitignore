@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Secrets
+.env
+*.env
+
+# Local datasets / downloaded artifacts
+datasets/
+content/
+runs/
+wandb/
+
+# Model weights
+*.pt
+*.pth
+*.onnx
+
+# Generated outputs
+predictions/
+results/
+run_summary.json

@@ -1,0 +1,9 @@
+# Core ML stack
+ultralytics==8.4.33
+roboflow
+pyyaml
+matplotlib
+opencv-python
+
+# Install torch/torchvision according to the CUDA runtime of your environment.
+# Example Colab environments may already provide a compatible PyTorch build.
